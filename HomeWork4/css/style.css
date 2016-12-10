@@ -1,0 +1,173 @@
+.box{
+	background-image: url(img/123.jpg);
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	}
+.logo{
+	height: 175px;
+
+}
+.content{
+	background: white;
+	width: 1150px;
+	height: 942px;
+	margin: 0 auto;
+	box-shadow: 0 0 10px;
+}
+.contacts{
+	float: right;
+	padding-right: 40px;
+	padding-top: 10px;
+	color: #0C75A0;
+}
+.con{
+	padding-top: 5px;
+}
+.flag1, .flag2, .flag3, .flag4, .flag5, .flag6{
+	display: inline;
+	margin-left:6px;
+	padding:0px 5px;
+	color: #0C75A0;
+	
+}
+.flag4{
+	padding-right: 0px;
+    padding-left: 7px;
+}
+.flag5{
+	padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 8px;
+}
+.flag6{
+	padding-left: 0px;
+    margin-left: 4px;
+}
+.flagmenu{
+	margin-left: 774px;
+	position: absolute;
+	top: 147px;
+	font-size: 13px;
+}
+.flagimg1, .flagimg2, .flagimg3, .flagimg4, .flagimg5, .flagimg6{
+	display: inline;
+	margin-left:5px;
+	padding:0px 0;
+}
+
+.flagimg2{
+	padding-left: 2px;
+}
+.flagimg3{
+    padding-left: 2px;
+}
+.flagimg4{
+	padding-left: 3px;
+}
+.flagimg5{
+	padding-left: 5px;
+}
+.flagimg6{
+    padding-left: 14px;
+}
+.flagimg{
+	margin-left: 780px;
+	position: absolute;
+	top: 104px;
+}
+
+.cssmenu{
+	height: 45px;
+	background: #323232;
+	position: relative;
+	top: -3px;
+	box-shadow: 0px 2px 8px 1px #414141;
+	z-index: 3;
+	border-bottom: 0.5px solid #000;
+}
+
+ul.cssmenu li {
+	float: left;
+	position: relative;
+}
+.cssmenu li a {
+	color: #fff;
+	padding: 0 42px;
+	text-decoration: none;
+	line-height: 40px;
+	display: block;
+	height: 45px;
+	font-size: 15px;
+    font-family: "Tahoma";
+}
+
+.cssmenu .dropdown {
+	position: absolute;
+	top: 100%;
+	width: 220px;
+	background: #323232;
+	display: none;
+	
+}
+.dropdown li{
+	width: 100%;
+	height: 35px;
+
+}
+.dropdown{
+	box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.75);
+	border: 1px solid black;
+}
+.dropdown li a{
+	line-height: 35px;
+	height: 35px;
+}
+.cssmenu li:hover .dropdown{
+	display: block;
+	z-index: 2;
+}
+.info{
+	width: 240px;
+	background: #EDEEF0;
+	height: 522px;
+	position: absolute;
+	top: 420px;
+	text-align: center;
+	border-right: 2px;
+	border-color: #C7CACF;
+	border-style: solid;
+	
+}
+.info p{
+	font-size: 18px;
+	line-height: 30px;
+	text-align:  center;
+
+}
+.news{
+	float: left;
+	position: absolute;
+	top: 0px;
+    width: 250px;
+    height: 522px;
+    left: 898px;
+    background: #EDEEF0;
+    border-left: 2px;
+	border-color: #C7CACF;
+	border-style: solid;
+}
+#information{
+	font-size: 20px;
+	font-weight: 700;
+	text-align:  center;
+}
+#newstitle{
+	font-size: 20px;
+	font-weight: 700;
+	text-align:  center;
+}
+.foot{
+	text-align:center;
+	padding-top: 4px;
+}
