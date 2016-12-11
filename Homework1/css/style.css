@@ -1,9 +1,5 @@
-body {
-	width: 1024px;
-	height: 1024px;
-	background-image: url("img/fon.png");
-	display: block;
-    margin: 0 auto;
+.mas {
+	background-image: url("../img/fon.png");
 }
 .new {
 	width: 503px;
