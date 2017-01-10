@@ -1,6 +1,6 @@
 .box{
-	background-image: url(img/123.jpg);
-	position: absolute;
+	background-image: url("../img/123.jpg");
+	position: relative;
 	height: 100%;
 	width: 100%;
 	}
@@ -28,8 +28,10 @@
 	display: inline;
 	margin-left:6px;
 	padding:0px 5px;
-	color: #0C75A0;
 	
+}
+li a {
+	color: rgb(18, 138, 167);
 }
 .flag4{
 	padding-right: 0px;
@@ -78,7 +80,7 @@
 }
 
 .cssmenu{
-	height: 45px;
+	height: 29px;
 	background: #323232;
 	position: relative;
 	top: -3px;
@@ -95,9 +97,8 @@ ul.cssmenu li {
 	color: #fff;
 	padding: 0 42px;
 	text-decoration: none;
-	line-height: 40px;
+	line-height: 29px;
 	display: block;
-	height: 45px;
 	font-size: 15px;
     font-family: "Tahoma";
 }
@@ -130,13 +131,11 @@ ul.cssmenu li {
 .info{
 	width: 240px;
 	background: #EDEEF0;
-	height: 522px;
+	height: 537px;
 	position: absolute;
-	top: 420px;
+	top: 405px;
 	text-align: center;
-	border-right: 2px;
-	border-color: #C7CACF;
-	border-style: solid;
+	border-right: 2px solid #C7CACF;
 	
 }
 .info p{
@@ -150,7 +149,7 @@ ul.cssmenu li {
 	position: absolute;
 	top: 0px;
     width: 250px;
-    height: 522px;
+    height: 537px;
     left: 898px;
     background: #EDEEF0;
     border-left: 2px;
@@ -170,4 +169,10 @@ ul.cssmenu li {
 .foot{
 	text-align:center;
 	padding-top: 4px;
+	font-size: 14px;
+	
+}
+.foot_text{
+	text-decoration: none;
+	color: rgba(255, 255, 255, 0.8);
 }
