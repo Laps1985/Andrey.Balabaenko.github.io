@@ -1,3 +1,28 @@
+/* Connect font "Tahoma-Regular"; */
+@font-face {
+    font-family: 'Tahoma';
+    src: local("Tahoma"), local("TahomaRegular"),
+         url('../fonts/Tahoma-Regular/Tahoma-Regular.eot');
+         url('../fonts/Tahoma-Regular/Tahoma-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Tahoma-Regular/Tahoma-Regular.woff') format('woff'),
+         url('../fonts/Tahoma-Regular/Tahoma-Regular.ttf') format('truetype'),
+         url('../fonts/Tahoma-Regular/Tahoma-Regular.svg#Tahoma-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+ 
+/* Connect font "Tahoma-Bold"; */
+@font-face {
+   font-family: 'Tahoma';
+    src: local("Tahoma"), local("TahomaBold"),
+         url('../fonts/Tahoma-Bold/Tahoma-Bold.eot');
+         url('../fonts/Tahoma-Bold/Tahoma-Bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Tahoma-Bold/Tahoma-Bold.woff') format('woff'),
+         url('../fonts/Tahoma-Bold/Tahoma-Bold.ttf') format('truetype'),
+         url('../fonts/Tahoma-Bold/Tahoma-Bold.svg#Tahoma-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
 .box{
 	background-image: url("../img/123.jpg");
 	position: relative;
@@ -10,7 +35,7 @@
 }
 .content{
 	background: white;
-	width: 1150px;
+	width: 1000px;
 	height: 942px;
 	margin: 0 auto;
 	box-shadow: 0 0 10px;
@@ -47,7 +72,7 @@ li a {
     margin-left: 4px;
 }
 .flagmenu{
-	margin-left: 774px;
+	margin-left: 644px;
 	position: absolute;
 	top: 147px;
 	font-size: 13px;
@@ -74,7 +99,7 @@ li a {
     padding-left: 14px;
 }
 .flagimg{
-	margin-left: 780px;
+	margin-left: 650px;
 	position: absolute;
 	top: 104px;
 }
@@ -95,7 +120,7 @@ ul.cssmenu li {
 }
 .cssmenu li a {
 	color: #fff;
-	padding: 0 42px;
+	padding: 0 32px;
 	text-decoration: none;
 	line-height: 29px;
 	display: block;
@@ -129,7 +154,7 @@ ul.cssmenu li {
 	z-index: 2;
 }
 .info{
-	width: 240px;
+	width: 210px;
 	background: #EDEEF0;
 	height: 537px;
 	position: absolute;
@@ -148,9 +173,9 @@ ul.cssmenu li {
 	float: left;
 	position: absolute;
 	top: 0px;
-    width: 250px;
+    width: 210px;
     height: 537px;
-    left: 898px;
+    left: 788px;
     background: #EDEEF0;
     border-left: 2px;
 	border-color: #C7CACF;
@@ -176,3 +201,4 @@ ul.cssmenu li {
 	text-decoration: none;
 	color: rgba(255, 255, 255, 0.8);
 }
+
