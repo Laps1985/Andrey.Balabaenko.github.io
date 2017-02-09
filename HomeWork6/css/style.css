@@ -1,15 +1,19 @@
-.page{
+@font-face {
+    font-family: "Arialb";
+    src: url(../fonts/arialbi.ttf);
+}
+.page {
 	width: 1000px;
 	height: 1310px;
 	display: block;
     margin: 0 auto;
     position: relative;
 }
-.register{
+.register {
 	width: 1000px;
 	height: 54px;
 }
-#inf{
+#inf {
     font-size: 18px;
     font-family: "Arial";
     color: rgb(94, 105, 109);
@@ -23,16 +27,16 @@
     letter-spacing: 0.5px;
 	
 }
-.contacts{
+.contacts {
 	height: 54px;
     width: 80px;
 }
-.tel{
+.tel {
 	position: absolute;
     top: 22px;
     left: 50px;
 }
-.reg{
+.reg {
 	width: 495px;
     height: 26px;
     position: absolute;
@@ -45,7 +49,7 @@
     -moz-box-shadow: 3px 3px 15px -1px rgba(0,0,0,0.76);
     box-shadow: 3px 3px 15px -1px rgba(0,0,0,0.76);
 }
-#log{
+#log {
     letter-spacing: 0.2px;
 	position: absolute;
     padding-top: 0px;
@@ -62,7 +66,7 @@
     font-size: 12.9px;
     font-family: "Lucida Sans Unicod";
 }
-#pas{
+#pas {
     letter-spacing: 0.2px;
     position: absolute;
     border-left-width: 0px;
@@ -80,13 +84,13 @@
     font-size: 12.9px;
     font-family: "Lucida Sans Unicod";
 }
-.bp{
+.bp {
 	position: absolute;
 	left: 7px;
     top: 4px;
 }
 
-.sub{
+.sub {
     letter-spacing: 0.2px;
 	position: absolute;
     background: linear-gradient(#1F6786, #0C3357);
@@ -107,7 +111,7 @@
     height: 11px;
     
 }
-.regis{
+.regis {
     font-size: 11px;
     letter-spacing: 0.2px;
 	position: absolute;
@@ -127,7 +131,7 @@
     color: white;
     border-left-color: white;
 }
-.lp{
+.lp {
 	position: absolute;
 	left: 391px;
     letter-spacing: 0.2px;
@@ -138,21 +142,21 @@
     border-bottom-width: 1px;
     height: 14px;
 }
-.ttp{
+.ttp {
 	position: absolute;
     left: 867px;
     top: 17px;
     right: 51px;
 }
-.bor{
+.bor {
 	display: block;
     margin: 0 auto;
 }
-.border{
+.border {
 	position: relative;
     
 }
-.mn{
+.mn {
 	position: absolute;
     height: 33px;
     width: 912px;
@@ -164,7 +168,7 @@
     -moz-box-shadow: inset 0px 5px 12px -3px rgba(255,255,255,0.99);
     box-shadow: inset 0px 5px 12px -3px rgba(255,255,255,0.99);
 }
-.menu_1, .menu_2{
+.menu_1, .menu_2 {
 	float: left;
 	color: white;
 	padding-left: 27px;
@@ -177,7 +181,7 @@
 .menu {
     width: 375px;
 }
-.menu_1{
+.menu_1 {
 	background: linear-gradient(#1F6787, #0B3153);
 	border-radius: 14px; 
 	height: 26px;
@@ -189,7 +193,7 @@
     right: 32px;
 
 }
-.m1{
+.m1 {
     letter-spacing: 0.2px;
 	position: relative;
     top: 4px;
@@ -201,14 +205,14 @@
     color: white;
     font-family: "Arial";
 }
-.m2, .m3, .m4, .m5{
+.m2, .m3, .m4, .m5 {
 	text-decoration: none;
     color: #B1BCC0;
     font-size: 14px;
     padding-left: 2px;
 }
 
-.m2{
+.m2 {
     padding-left: 21px;
 }
 .m3 {
@@ -220,19 +224,18 @@
 .m5 {
     padding-left: 0px;
 }
-.met{
+.met {
 	position: absolute;
 	left: 95px;
     top: 8px;
     bottom: 8px;
 }
-.bas{
+.bas {
 	position: absolute;
 	left: 683px;
     top: 8px;
 }
-.search-form1{
-    
+.search-form1 {
     border-style: solid;
     border-width: 1px;
     border-color: rgb(156, 156, 157);
@@ -245,7 +248,7 @@
     width: 412px;
     height: 132px;
 }
-.fp1{
+.fp1 {
     float: left;
     position: relative;
     font-size: 17px;
@@ -254,50 +257,50 @@
     color: #154467;
     font-weight: 600;
 }
-.fa1{
+.fa1 {
     position: absolute;
     width: 415px;
     height: 130px;
 }
-.row{
+.row {
     position: absolute;
     top: 25px;
     left: 10px;
     width: 50%;
 }
-.v1{
+.v1 {
     width: 104px;
 }
-.row2{
+.row2 {
     position: absolute;
     top: 25px;
     left: 217px;
     width: 50%;
 }
-.v2{
+.v2 {
     width: 104px;
 }
-span{
+span {
     font-size: 13px;
 
 }
-.row3{
+.row3 {
     position: absolute;
     top: 50px;
     left: 10px;
     line-height: 0.2;
 }
 
-.row4{
+.row4 {
     position: absolute;
     top: 50px;
     left: 217px;
     line-height: 0.2;
 }
-.v3{
+.v3 {
     width: 104px;
 }
-.v4{
+.v4 {
     width: 104px;
 }
 .row5{
@@ -306,19 +309,19 @@ span{
     top: 78px;
     line-height: 0.2;
 }
-.v5{
+.v5 {
     width: 60px;
 }
-.row6{
+.row6 {
     position: absolute;
     left: 216px;
     top: 78px;
     line-height: 0.2;
 }
-.v6{
+.v6 {
     width: 60px;
 }
-.v7{
+.v7 {
     position: absolute;
     bottom: 0px;
     top: 0px;
@@ -327,20 +330,6 @@ span{
     height: 18px;
 }
 
-._044_123_45_67__044_567_89_10_ {
-  font-size: 19.794px;
-  font-family: "Arial";
-  color: rgb(94, 105, 109);
-  line-height: 1.415;
-  text-align: center;
-  -moz-transform: matrix( 0.90909090909091,0,0,0.909375,0,0);
-  -webkit-transform: matrix( 0.90909090909091,0,0,0.909375,0,0);
-  -ms-transform: matrix( 0.90909090909091,0,0,0.909375,0,0);
-  position: absolute;
-  left: 63.877px;
-  top: 46.907px;
-  z-index: 114;
-}
 .poisk {
     
     height: 200px;
@@ -362,15 +351,135 @@ span{
     left: 680px;
 }
 
-.tovar_1 ul, .tovar_2 ul, .tovar_3 ul {
-    list-style-type: circle;
-    color: #114165;
+.tovar_1 ul li a, .tovar_2 ul li a, .tovar_3 ul li a {
+    text-decoration: none;
+    color: rgb(17, 65, 101);
+    
+}
+.tovar_1 ul li a:hover, .tovar_2 ul li a:hover, .tovar_3 ul li a:hover {
+   font-size: 14px;
+}
+.t1 {
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    width: 114px;
+    height: 19px;
+}
+.t2 {
+    position: absolute;
+    top: 25px;
+    width: 114px;
+    left: 11px;
+    height: 19px;
+}
+.t3 {
+    position: absolute;
+    top: 51px;
+    left: 10px;
+    width: 114px;
+    height: 19px;
+}
+.t4 {
+    position: absolute;
+    top: 77px;
+    left: 10px;
+    width: 114px;
+    height: 19px;
+}
+.t5 {
+    position: absolute;
+    left: 10px;
+    top: 0px;
+    width: 114px;
+    height: 19px;
+}
+.t6 {
+    position: absolute;
+    left: 9px;
+    width: 114px;
+    height: 19px;
+    top: 26px;
+}
+.t7 {
+    position: absolute;
+    left: 10px;
+    width: 114px;
+    height: 19px;
+    top: 51px;
+}
+.t8 {
+    position: absolute;
+    left: 10px;
+    width: 114px;
+    height: 19px;
+    top: 77px;
+}
+.t9 {
+    position: absolute;
+    left: 10px;
+    width: 114px;
+    height: 19px;
+    top: 0px;
+}
+.t10 {
+    position: absolute;
+    left: 10px;
+    width: 114px;
+    height: 19px;
+    top: 25px;
+}
+.t11 {
+    position: absolute;
+    left: 10px;
+    width: 114px;
+    height: 19px;
+    top: 51px;
+}
+.t12 {
+    position: absolute;
+    left: 10px;
+    width: 114px;
+    height: 19px;
+    top: 76px;
+}
+.tovar_1 ul li , .tovar_2 ul li , .tovar_3 ul li {
+    line-height: 25px;
+}
+.tov1, .tov2, .tov3, .tov4 {
+    position: relative;
+    padding-right: 2px;
+}
+.tovar_1 {
+    position: absolute;
+    top: 565px;
+    left: 81px;
+    font-size: 13px;
+    font-family: "Lucida Sans Unicode";
+    line-height: 1.99;
+}
+
+.tovar_2 {
+    position: absolute;
+    top: 692px;
+    left: 81px;
+    font-size: 13px;
+    font-family: "Lucida Sans Unicode";
+    line-height: 1.99;
+}
+.tovar_3 {
+    position: absolute;
+    top: 820px;
+    left: 81px;
+    font-size: 13px;
+    font-family: "Lucida Sans Unicode";
+    line-height: 1.99;
 }
 
 .kat_1 {
     position: relative;
     left: 44px;
-    top: 6px;
+    top: 5px;
 }
 .main {
     height: 626px;
@@ -381,4 +490,411 @@ span{
     background: linear-gradient(to bottom, #E5E7E8, #93A7B0);
     border: 1px solid #F3F4F4;
     border-radius: 5px;
+}
+.box li {
+    display: block;
+    float: left;
+    position: relative;
+}
+.kol1 {
+    padding-left: 24px;
+    padding-top: 42px;
+}
+.kol2 {
+    padding-top: 42px;
+    padding-left: 27px;
+}
+.kol3 {
+    padding-top: 42px;
+    padding-left: 29px;
+}
+.kol4 {
+    padding-top: 68px;
+    padding-left: 23px;
+}
+.kol5 {
+    padding-top: 68px;
+    padding-left: 27px;
+}
+.kol6 {
+    padding-top: 68px;
+    padding-left: 30px;
+}
+.kol7 {
+    padding-top: 72px;
+    padding-left: 23px;
+}
+.kol8 {
+    padding-top: 72px;
+    padding-left: 28px;
+}
+.kol9 {
+    padding-top: 72px;
+    padding-left: 29px;
+}
+.reklama {
+    position: relative;
+    padding-left: 163px;
+    padding-bottom: 7px;
+    top: 633px;
+}
+.box2 {
+    position: relative;
+    background: #213A4D;
+    height: 100px;
+    width: 910px;
+    padding-left: 0px;
+    left: 45px;
+    top: 649px;
+}
+.f_menu li a{
+   text-decoration: none;
+   font-size: 13px;
+   font-family: "Arial";
+}
+.f_menu li {
+    display: block;
+    float: left;
+    position: relative;
+}
+.foot__menu {
+    position: relative;
+    left: 308px;
+    top: 8px;
+}
+.f_m4 {
+    left: 74px;
+}
+.f_m3 {
+    left: 46px;
+}
+.f_m2 {
+    left: 23px;
+}
+.typ2, .typ3, .typ4 {
+    color: #c7ced1;
+}
+.typ1 {
+    color: #52abcb;
+}
+.bord_1, .bord_2, .bord_3 {
+    position: absolute;
+}
+.bord_1 {
+    left: 80px;
+    top: 2px
+}
+.bord_2 {
+    left: 159px;
+    top: 2px;
+}
+.bord_3 {
+    top: 2px;
+    left: 225px;
+}
+.global {
+    position: relative;
+    left: 152px;
+    top: 34px;
+}
+.glob {
+    text-decoration: none;
+    color: #7f4740;
+    font-family: "Arial";
+    font-size: 10px;
+}
+
+p {
+    color: #206988;
+    font-weight: 600;
+    letter-spacing: normal;
+}
+.good1 {
+    position: absolute;
+    font-size: 15px;
+    left: 56px;
+    top: 13px;
+    font-family: "Lucida Sans Unicode";
+}
+.ul1 {
+    font-size: 13px;
+    position: absolute;
+    left: 37px;
+    font-family: "Lucida Sans Unicode";
+    top: 28px;
+    color: #1f2528;
+}
+.spape_1 {
+    position: absolute;
+    left: 4px;
+    top: 1px;
+}
+.wun {
+    position: relative;
+    left: 29px;
+    top: 6px;
+    font-size: 14px;
+    font-family: "Lucida Sans Unicode";
+    text-decoration: none;
+    color: #114165;
+}
+.wunu {
+    width: 148px;
+    height: 26px;
+    position: absolute;
+    top: 536px;
+    left: 46px;
+    border: 1px solid #79878D;
+    border-radius: 12px;
+}
+.spape_2 {
+    position: relative;
+    top: 1px;
+    left: 3px;
+}
+.spape_3 {
+    position: absolute;
+    top: 1px;
+    left: 3px;
+}
+.dis {
+    position: absolute;
+    left: 28px;
+    top: 7px;
+    font-size: 14px;
+    font-family: "Lucida Sans Unicode";
+    text-decoration: none;
+    color: #114165;
+}
+.bolt {
+    position: relative;
+    left: 28px;
+    top: 5px;
+    font-size: 14px;
+    font-family: "Lucida Sans Unicode";
+    text-decoration: none;
+    color: #114165;
+}
+.diski {
+    width: 148px;
+    height: 26px;
+    position: absolute;
+    top: 664px;
+    left: 46px;
+    border: 1px solid #79878D;
+    border-radius: 12px;
+}
+.boltu {
+    width: 148px;
+    height: 26px;
+    position: absolute;
+    top: 791px;
+    left: 46px;
+    border: 1px solid #79878D;
+    border-radius: 12px;
+}
+.noki1 {
+    position: absolute;
+    font-size: 15px;
+    left: 235px;
+    top: 13px;
+    font-family: "Lucida Sans Unicode";
+}
+.ul2 {
+    font-size: 13px;
+    position: absolute;
+    left: 215px;
+    font-family: "Lucida Sans Unicode";
+    top: 28px;
+    color: #1f2528;
+}
+.hank1 {
+    position: absolute;
+    font-size: 15px;
+    left: 397px;
+    top: 13px;
+    font-family: "Lucida Sans Unicode";
+}
+.ul3 {
+    font-size: 13px;
+    position: absolute;
+    left: 369px;
+    font-family: "Lucida Sans Unicode";
+    top: 28px;
+    color: #1f2528;
+}
+.money1 {
+    position: absolute;
+    font-size: 16px;
+    left: 62px;
+    top: 175px;
+    font-family: "Arialb";
+    color: #114165;
+}
+.money2 {
+    position: absolute;
+    font-size: 16px;
+    left: 225px;
+    top: 175px;
+    font-family: "Arialb";
+    color: #114165;
+}
+.money3 {
+    position: absolute;
+    font-size: 16px;
+    left: 394px;
+    top: 174px;
+    font-family: "Arialb";
+    color: #114165;
+}
+.good2 {
+    position: absolute;
+    font-size: 15px;
+    left: -161px;
+    top: 190px;
+    font-family: "Lucida Sans Unicode";
+}
+.ul4 {
+    font-size: 13px;
+    position: absolute;
+    left: -180px;
+    font-family: "Lucida Sans Unicode";
+    top: 205px;
+    color: #1f2528;
+}
+.money4 {
+    position: absolute;
+    font-size: 16px;
+    left: -155px;
+    top: 351px;
+    font-family: "Arialb";
+    color: #114165;
+}
+.noki2 {
+    position: absolute;
+    font-size: 15px;
+    left: 17px;
+    top: 189px;
+    font-family: "Lucida Sans Unicode";
+}
+.ul5 {
+    font-size: 13px;
+    position: absolute;
+    left: -3px;
+    font-family: "Lucida Sans Unicode";
+    top: 204px;
+    color: #1f2528;
+}
+.money5 {
+    position: absolute;
+    font-size: 16px;
+    left: 8px;
+    top: 351px;
+    font-family: "Arialb";
+    color: #114165;
+}
+.hank2 {
+    position: absolute;
+    font-size: 15px;
+    left: 180px;
+    top: 189px;
+    font-family: "Lucida Sans Unicode";
+}
+.ul6 {
+    font-size: 13px;
+    position: absolute;
+    left: 152px;
+    font-family: "Lucida Sans Unicode";
+    top: 204px;
+    color: #1f2528;
+    width: 130px;
+}
+.money6 {
+    position: absolute;
+    font-size: 16px;
+    left: 177px;
+    top: 351px;
+    font-family: "Arialb";
+    color: #114165;
+}
+.good3 {
+    position: absolute;
+    font-size: 15px;
+    left: 45px;
+    top: 374px;
+    font-family: "Lucida Sans Unicode";
+}
+.ul7 {
+    font-size: 13px;
+    position: absolute;
+    left: 26px;
+    font-family: "Lucida Sans Unicode";
+    top: 388px;
+    color: #1f2528;
+    width: 120px;
+}
+.noki3 {
+    position: absolute;
+    font-size: 15px;
+    left: 225px;
+    top: 375px;
+    font-family: "Lucida Sans Unicode";
+}
+.ul8 {
+    font-size: 13px;
+    position: absolute;
+    left: 205px;
+    font-family: "Lucida Sans Unicode";
+    top: 389px;
+    color: #1f2528;
+    width: 97px;
+}
+.hank3 {
+    position: absolute;
+    font-size: 15px;
+    left: 387px;
+    top: 375px;
+    font-family: "Lucida Sans Unicode";
+}
+.ul9 {
+    font-size: 13px;
+    position: absolute;
+    left: 359px;
+    font-family: "Lucida Sans Unicode";
+    top: 389px;
+    color: #1f2528;
+    width: 130px;
+}
+.money7 {
+    position: absolute;
+    font-size: 16px;
+    left: 52px;
+    top: 536px;
+    font-family: "Arialb";
+    color: #114165;
+    width: 75px;
+}
+.money8 {
+    position: absolute;
+    font-size: 16px;
+    left: 215px;
+    top: 536px;
+    font-family: "Arialb";
+    color: #114165;
+    width: 90px;
+}
+.money9 {
+    position: absolute;
+    font-size: 16px;
+    left: 384px;
+    top: 536px;
+    font-family: "Arialb";
+    color: #114165;
+    width: 90px;
+}
+.bren {
+    width: 211px;
+    position: absolute;
+    left: 772px;
+    top: 492px;
 }
