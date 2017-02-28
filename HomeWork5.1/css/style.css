@@ -1,0 +1,165 @@
+body {
+    background-color: #282828;}
+
+table {
+    border-collapse: collapse;
+}
+
+.tablet {
+    width: 500px;
+    height: 559px;
+    margin-top: 200px;
+    margin-right: 50%;
+    margin-left: 40%;
+}
+
+.tablet1 {
+    width: 500px;
+    height: 540px;
+}
+
+
+tr, td {
+    border: 9px solid rgba(0, 0, 0, 1);
+}
+.r1 {
+    background: #fff;
+    border-top: hidden;
+    border-left: hidden;
+    width: 116px;
+    height: 47px;
+}
+
+.r2{
+    background: #fff;
+    border-top: hidden;
+    width: 200px;
+    height: 47px;
+}
+
+.r3 { 
+    border-top: hidden;
+    border-right: hidden;
+    width: 164px;
+    height: 47px;
+    background: #FFEF5A;
+}
+
+.r4 {
+    background: #fff;
+    border-left: hidden;
+    width: 47px;
+    height: 130px;
+}
+
+.r5 {
+    width: 263px;
+    height: 270px;
+    background: rgba(255,91,45,1);
+}
+
+.r6 {
+    border-right: hidden;
+    width: 164px;
+    height: 130px;
+    background: #FFEF5A;
+}
+
+.r7 {
+    background: #fff;
+    border-left: hidden;
+    height: 200px;
+    width: 47px;
+}
+
+.r8 {
+    background: #fff;
+    width: 76px;
+    height: 130px;
+}
+
+.r9 {
+    background: #fff;
+    border-right: hidden;
+    width: 76px;
+    height: 130px;
+}
+
+.r10 {
+    background: rgba(18,18,18,1);
+    width: 60px;
+    height: 60px;
+}
+
+.r11 {
+    background: rgba(18,18,18,1);
+    width: 60px;
+    height: 60px;
+}
+
+.r12 {
+    background: #fff;
+    height: 60px;
+    width: 130px;
+}
+
+.r13 {
+    background: #fff;
+    border-right: hidden;
+    height: 60px;
+    width: 158px;
+}
+
+.r14 {
+    border-bottom: hidden;
+    border-left: hidden;
+    width: 47px;
+    height: 135px;
+    background: #FFEF5A;
+}
+
+.r15 {
+    background: rgba(18,18,18,1);
+    width: 60px;
+    height: 60px;
+}
+
+.r16 {
+    background: rgba(18,18,18,1);
+    width: 60px;
+    height: 60px;
+}
+
+.r17 {
+    background: #fff;
+    height: 60px;
+    width: 130px;
+}
+
+.r18 {
+    background: rgba(8,69,131,1);
+    border-right: hidden;
+    height: 95px;
+    width: 160px;
+}
+
+.r19 {
+    background: #fff;
+    border-bottom: hidden;
+    height: 70px;
+    width: 130px;
+}
+
+.r20 {
+    background: rgba(18,18,18,1);
+    height: 30px;
+    width: 130px;
+}
+
+.r21 {
+    background: #fff;
+    border-bottom: hidden;
+    border-right: hidden;
+    height: 30px;
+    width: 300px;
+}
