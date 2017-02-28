@@ -1,0 +1,1029 @@
+@media (min-width: 960px) {
+	.bl_960_1, .bl_960_2, .blurb_1_1, .blurb_1_2, .read_6, .inf4, .inf5 {
+		opacity: 0;
+	}
+
+}
+@media (max-width: 960px) {
+
+	.logo {
+		position: relative;
+		left: 1px;
+		top: 100px;
+
+	}
+	.menu {
+		float: left;
+        position: relative;
+        top: 130px;
+        left: 0px;
+	}
+	.menu__link2 {
+		position: relative;
+		left: 66px;
+	}
+	.menu__link3 {
+		position: relative;
+    	left: 133px;
+	}
+	.menu__link4 {
+		position: relative;
+    	left: 200px;
+	}
+	.menu__link5 {
+		position: relative;
+    	left: 267px;
+	}
+	.menu__link6 {
+		position: relative;
+    	left: 333px;
+	}
+	.lor {
+		width: 37%;
+    	display: block;
+    	position: relative;
+    	top: 162px;
+    	height: 400px;
+    	left: 22px;
+	}
+	.title {
+		font-size: 47px;
+ 		font-family: "League Gothic";
+  		color: rgb(254, 254, 254);
+  		text-align: left;
+ 		text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+ 				 
+	}
+	.inf {
+		position: relative;
+        font-size: 24px;
+    	color: #edbfff;
+    	font-family: "League Gothic";
+    	text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.4);
+    	top: 113px;
+	}
+	.text {
+		position: relative;
+   		font-family: "Open Sans";
+   		font-size: 16px;
+    	color: white;
+       	top: 94px;
+    	width: 94%;
+    	line-height: 1.8;
+	}
+	.iphone {
+		position: absolute;
+		left: 406px;
+    	top: 46px;
+	}
+	.sl {
+		position: relative;
+    	top: 267px;
+    	left: 523px;
+    	width: 86px;
+	}
+	.page_1 {
+		position: absolute;
+    	top: 292px;
+    	width: 100%;
+    	overflow: hidden;
+	}
+	.blurb {
+		position: relative;
+    	top: 363px;
+    	height: 343px;
+	}
+	.bl_1 {
+    	position: absolute;
+    	top: 82px;
+    	left: 13px;
+	}
+	.blurb_1 {
+		position: relative;
+    	left: 53px;
+    	width: 171px;
+    	height: 343px;
+    	float: left;
+	}
+	.title_company_1 {
+    	position: absolute;
+    	top: 78px;
+    	width: 177px;
+    	left: 8px;
+    	font-size: 24px;
+    	font-family: "League Gothic";
+    	color: rgb(255, 255, 255);
+    	line-height: 1;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(15, 21, 24, 0.004);
+	}
+	.blurb_company_1 {
+    	font-size: 16px;
+    	font-family: "Open Sans";
+    	color: rgb(255, 255, 255);
+    	line-height: 1.5;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(15, 21, 24, 0.004);
+    	position: relative;
+    	width: 315px;
+    	top: 105px;
+    	left: 9px;
+    }
+    .read_1 {
+    	left: 9px;
+    	top: 86px;
+    }
+    .bl_960_1 {
+    	position: absolute;
+    	top: 81px;
+    	left: 265px;
+    	opacity: 1;
+    }
+    .blurb_1_1 {
+    	position: relative;
+    	left: 139px;
+    	width: 171px;
+    	height: 343px;
+    	float: left;
+    }
+    .title_company_1_1 {
+    	position: absolute;
+    	top: 78px;
+    	width: 177px;
+    	left: 3px;
+    	font-size: 24px;
+    	font-family: "League Gothic";
+    	color: rgb(255, 255, 255);
+    	line-height: 1;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(15, 21, 24, 0.004);
+    	text-transform: uppercase;
+    }
+    .blurb_company_1_1 {
+    	font-size: 16px;
+    	font-family: "Open Sans";
+    	color: rgb(255, 255, 255);
+    	line-height: 1.5;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(15, 21, 24, 0.004);
+    	position: relative;
+    	width: 315px;
+    	top: 105px;
+    	left: 5px;
+    }
+    .read_1_1 {
+    	font-size: 17px;
+    	font-family: "League Gothic";
+    	text-transform: uppercase;
+    	color: rgb(255, 255, 255);
+    	line-height: 1.3;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(15, 21, 24, 0.004);
+    	position: relative;
+    	text-decoration: none;
+    	left: 3px;
+    	top: 86px;
+    }
+    .bl_960_2 {
+    	position: absolute;
+    	top: 81px;
+    	left: 526px;
+    	opacity: 1;
+    }
+    .blurb_1_2 {
+    	position: relative;
+    	left: 228px;
+    	width: 171px;
+    	height: 343px;
+    	float: left;
+	}
+    .title_company_1_2 {
+    	position: absolute;
+    	top: 78px;
+    	width: 177px;
+    	left: 4px;
+    	font-size: 24px;
+    	font-family: "League Gothic";
+    	color: rgb(255, 255, 255);
+    	line-height: 1;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(15, 21, 24, 0.004);
+    	text-transform: uppercase;
+    }
+    .blurb_company_1_2 {
+    	font-size: 16px;
+    	font-family: "Open Sans";
+    	color: rgb(255, 255, 255);
+    	line-height: 1.5;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(15, 21, 24, 0.004);
+    	position: relative;
+    	width: 315px;
+    	top: 105px;
+    	left: 5px;
+    }
+    .read_1_2 {
+    	font-size: 17px;
+    	font-family: "League Gothic";
+    	text-transform: uppercase;
+    	color: rgb(255, 255, 255);
+    	line-height: 1.3;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(15, 21, 24, 0.004);
+    	position: relative;
+    	text-decoration: none;
+    	left: 5px;
+    	top: 86px;
+    }
+    .bg_sc {
+    	width: 313px;
+    	height: 272px;
+    	position: absolute;
+    	left: 23px;
+    	top: 182px;
+    }
+    .inf_recall {
+    	position: absolute;
+    	top: 177px;
+    	width: 253px;
+    	left: 57px;
+    	height: 245px;
+    }
+    .title_recall {
+    	font-size: 24px;
+    }
+    .colortext {
+    	position: absolute;
+    	top: 25px;
+    	left: 0px;
+    }
+    .recall_1 {
+    	font-size: 16px;
+    	font-family: "Open Sans";
+    	color: rgb(69, 69, 69);
+    	line-height: 1.5;
+    	letter-spacing: 0.5px;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+    	position: relative;
+    	width: 252px;
+    	height: 164px;
+    	top: 53px;
+    	left: 4px;
+    }
+    .foto {
+    	top: -161px;
+    }
+    .sc {
+    	top: 85px;
+    	left: 83px;
+    }
+    .updates {
+    	top: 65px;
+    	left: 357px;
+
+    }
+    .sc_3 {
+    	top: 308px;
+    	left: 38px;
+    }
+    .text2 {
+    	font-size: 15px;
+    	font-family: "Open Sans";
+    	color: rgb(69, 69, 69);
+    	line-height: 1.5;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+    	position: absolute;
+    	height: 18px;
+    	top: 198px;
+    	left: 105px;
+    	letter-spacing: 0.33px;
+    } 
+    .text4 {
+    	font-size: 15px;
+    	font-family: "Open Sans";
+    	color: rgb(69, 69, 69);
+    	line-height: 1.5;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+    	position: absolute;
+    	height: 18px;
+    	top: 266px;
+    	left: 105px;
+    	letter-spacing: 0.33px;
+    }
+    .text6 {
+    	font-size: 15px;
+    	font-family: "Open Sans";
+    	color: rgb(69, 69, 69);
+    	line-height: 1.5;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+    	position: absolute;
+    	height: 18px;
+    	top: 332px;
+    	left: 105px;
+    	letter-spacing: 0.33px;
+    }
+    .text1 {
+    	top: 177px;
+    	left: 103px;
+    	font-size: 16px;
+    	font-family: "Open Sans Extrabold";
+    	color: rgb(69, 69, 69);
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+    	position: absolute;
+    	height: 42px;
+    	letter-spacing: 0px;
+    }
+    .text3 {
+    	font-size: 16px;
+    	font-family: "Open Sans Extrabold";
+    	color: rgb(69, 69, 69);
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+    	position: absolute;
+    	height: 42px;
+    	letter-spacing: 0px;
+    	top: 245px;
+    	left: 103px;
+    }
+    .text5 {
+    	font-size: 16px;
+    	font-family: "Open Sans Extrabold";
+    	color: rgb(69, 69, 69);
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+    	position: absolute;
+    	height: 42px;
+    	letter-spacing: 0px;
+    	top: 311px;
+    }
+    .read_6 {
+    	font-size: 18px;
+    	text-decoration: none;
+    	font-family: "League Gothic";
+    	color: rgb(69, 69, 69);
+    	line-height: 1.5;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+    	position: absolute;
+    	left: 276px;
+    	top: 373px;
+    }
+    .footer {
+    	position: relative;
+    	top: 262px;
+    	height: 100px;
+    }
+    .logos1 {
+    	position: relative;
+    	left: 2px;
+    }
+    .logos2 {
+    	position: relative;
+    	left: 56px;
+    	top: 6px;
+    }
+    .logos3 {
+        position: relative;
+    	left: 109px;
+    	top: 6px;
+    }
+    .logos4 {
+    	left: 168px;
+    }
+    .logos5 {
+    	left: 224px;
+    }
+    .logos6 {
+    	left: 278px;
+    }
+    .wrapper {
+    	width: 768px;
+        margin: auto;
+    }
+    .foot_inf {
+    	position: relative;
+    	top: 262px;
+    	height: 397px;
+    	width: 768px;
+	}
+    .inf3 {
+    	width: 200px;
+    	position: absolute;
+    	top: 99px;
+    	height: 207px;
+    	left: 0;
+	}
+	.categories {
+    	font-size: 24px;
+    	font-family: "League Gothic";
+    	color: rgb(69, 69, 69);
+    	line-height: 0.8;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+    	position: absolute;
+    	top: 7px;
+    	left: 0px;
+	}
+	.nunc2 {
+    	font-size: 16px;
+    	font-family: "Open Sans";
+    	color: rgb(120, 120, 120);
+    	line-height: 1.5;
+    	text-align: left;
+    	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+    	position: absolute;
+        top: 38px;
+    	left: 0px;
+    	width: 205px;
+   	 	height: 170px;
+	}
+	.inf4 {
+	    width: 200px;
+    	position: absolute;
+    	top: 99px;
+    	height: 207px;
+    	left: 264px;
+	}
+	.inf5 {
+		width: 200px;
+    	position: absolute;
+    	top: 99px;
+    	height: 207px;
+    	left: 527px;
+	}
+	.menu {
+    	float: left;
+    	position: relative;
+    	top: 132px;
+    	left: 0px;
+	}
+	.menu--footer {
+		top: 304px;
+	}
+	.menu--footer .menu__link2 {
+     	left: 54px;
+	}
+	.menu--footer .menu__link3 {
+    	left: 110px;
+	}
+	.menu--footer .menu__link4 {
+    	left: 165px;
+	}
+	.menu--footer .menu__link5 {
+    	left: 221px;
+	}
+	.menu--footer .menu__link6 {
+    	left: 277px;
+	}
+	.designed {
+    	position: relative;
+    	top: 348px;
+    	left: 588px;
+	}
+	.text8 {
+    	position: relative;
+    	font-family: "Open Sans Extrabold";
+    	left: 3px;
+    	font-weight: bold;
+    	font-size: 12px;
+	}
+
+	.opacity1, .opacity2, .opacity3, .opacity4, .opacity5, .opcity6, .blurb_2, .blurb_3, .bl_3, .bl_2, .read_4, .footer_logo, .inf1, .inf2 {
+		opacity: 0;
+	}
+    
+}
+@media (min-width: 769px) {
+    .side {
+        display: none;
+    }
+   
+}
+
+@media (max-width: 768px) {
+
+    .wrapper {
+        width: 480px;
+        margin: auto;
+    }
+
+    .logo {
+        position: relative;
+        left: 151px;
+        top: 51px;
+    }
+    .sl {
+        position: relative;
+        top: -250px;
+        left: 191px;
+    }
+    .lor {
+        width: 45%;
+        left: 22px;
+        top: -97px;
+    }
+    .title {
+        position: absolute;
+        top: 74px;
+        left: 4px;
+        font-size: 36px;
+    }
+    .inf {
+        position: absolute;
+        font-size: 18px;
+        left: 5px;
+    }
+    .text {
+        opacity: 0;
+    }
+    .iphone {
+        top: -29px;
+        left: 223px;
+    }
+    .ip {
+        width: 192px;
+    }
+    .blurb {
+        position: relative;
+        float: none;
+        top: -194px;
+        left: -128px;
+        height: 598px;
+        width: 768px;
+    }
+    .page {
+        background-image: url("../img/bg768.png");
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 3035px;
+        
+    }
+    .page_1 {
+        height: 247px;
+        top: 202px;
+    }
+    .bl_1 {
+        left: 151px;
+    }
+    .bl_960_1 {
+        top: 238px;
+        left: 150px;
+    }
+    .bl_960_2 {
+        top: 398px;
+        left: 151px;
+    }
+    .blurb_1 {
+        position: relative;
+        left: 193px;
+        width: 386px;
+        height: 150px;
+        
+    }
+    .read_1 {
+        left: 323px;
+        top: 120px;
+    }
+    .blurb_1_1 {
+        position: absolute;
+        left: 198px;
+        width: 386px;
+        height: 150px;
+        top: 157px;
+    }
+    .read_1_1 {
+        left: 318px;
+        top: 120px;
+    }
+    .blurb_1_2 {
+        position: absolute;
+        left: 197px;
+        width: 386px;
+        height: 150px;
+        top: 318px;
+    }
+    .read_1_2 {
+        left: 319px;
+        top: 120px;
+    }
+    .title_company_1_1, .title_company_1_2, .title_company_1 {
+        font-size: 23px;
+    }
+    .body {
+        top: -192px;
+        left: 1px;
+    }
+    .foto {
+        top: 87px;
+        left: -224px;
+    }
+    .bg_sc {
+        width: 416px;
+        height: 292px;
+        position: absolute;
+        left: 32px;
+        top: 71px;
+    }
+    .sc {
+        top: 333px;
+        left: -93px;
+    }
+    .updates {
+        top: 303px;
+        left: 34px;
+    }
+    .read_6 {
+        left: 284px;
+        top: 372px;
+    }
+    .inf_recall {
+        position: absolute;
+        top: 84px;
+        width: 362px;
+        left: 65px;
+        height: 245px;
+    }
+    .title_recall {
+        font-size: 29px;
+    }
+    .colortext {
+        position: absolute;
+        top: 0px;
+        left: 103px;
+    }
+    .opacity4 {
+        opacity: 1;
+    }
+    .recall_1   {
+        width: 335px;
+        top: 33px;
+        height: 164px;
+    }
+    .footer {
+        position: relative;
+        top: -13px;
+        height: 232px;
+    }
+    .logos1 {
+        left: 69px;
+        top: 37px;
+    }
+    .logos2 {
+        position: relative;
+        left: 192px;
+        top: -29px;
+    }
+    .logos3 {
+        position: relative;
+        left: 319px;
+        top: -100px;
+    }
+    .logos4 {
+        left: 52px;
+        top: -78px;
+    }
+    .logos5 {
+        left: 162px;
+        top: -123px;
+    }
+    .logos6 {
+        left: 321px;
+        top: -172px;
+    }
+    .footer li {
+        float: none;
+        display: block;
+    }
+    .foot_inf {
+        top: -16px;
+        height: 670px;
+        left: 1px;
+    }
+    .inf3 {
+        width: 469px;
+        position: absolute;
+        top: 78px;
+        height: 140px;
+        left: 4px;
+    }
+    .inf4 {
+        width: 469px;
+        position: absolute;
+        top: 262px;
+        height: 140px;
+        left: 4px;
+    }
+    .inf5 {
+        width: 469px;
+        position: absolute;
+        top: 450px;
+        height: 140px;
+        left: 4px;
+    }
+    .nunc2 {
+        width: 469px;
+    }
+    .menu--footer {
+        top: 26px;
+    }
+    .menu__link1 {
+        position: relative;
+        left: 9px;
+    }
+    .menu--footer .menu__link2 {
+        left: 34px;
+    }
+    .menu--footer .menu__link3 {
+        left: 59px;
+    }
+    .menu--footer .menu__link4 {
+        left: 84px;
+    }
+    .menu--footer .menu__link5 {
+        left: 108px;
+    }
+    .menu--footer .menu__link6 {
+        left: 130px;
+    }
+    .designed {
+        top: 79px;
+        left: 158px;
+    }
+    #menu--head {
+        opacity: 0;
+        position: absolute;
+    }
+    .side ul a {
+        text-decoration: none;
+    }
+    .side a {
+        background: #3D3146;
+        opacity: 0.9;
+        font-size: 24px;
+        font-family: "League Gothic";
+        color: rgb(255, 255, 255);
+        text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.4);
+        text-transform: uppercase;
+        display: block;
+        border-bottom: 1px solid #57445F;
+    }
+    .side {
+        position: relative;
+        top: 70px;
+        left: 105px;
+        width: 246px;
+        height: 259px;
+        z-index: 4;
+    }
+    .side a:hover {
+       background: #2B2231;
+       opacity: 0.9;
+       border-bottom: 2px solid #EDBFFF;
+
+    }
+    .menu__list {
+        position: relative;
+        text-align: center;
+        line-height: 48px;
+    }
+    .menu__drop {
+        position: absolute;
+        width: 100%;
+        display: none;
+    }
+    .menu__list:hover .menu__drop {
+        display: block;
+    }
+    .mfirst {
+        border-radius: 10px 10px 0px 0px;
+    }
+    .menu__list1 {
+        line-height: 37px;
+    }
+    .menu__list2 {
+        line-height: 44px;
+    }
+    .menu__list3 {
+        line-height: 41px;
+    }
+    .menu__list4 {
+        line-height: 41px;
+    }
+    .menu__list5 {
+        line-height: 42px;
+    }
+    .menu__list5 a {
+        border-radius: 0 0 10px 10px;
+    }
+    .linia {
+        position: absolute;
+        top: 1925px;
+        overflow: hidden;
+    }
+}
+@media (min-width: 480px) {
+    
+}
+@media (max-width: 480px) {
+    .logo {
+        position: relative;
+        left: 163px;
+        top: 48px;
+    }
+    .side {
+        left: 117px;
+    }
+    .side a {
+        background: 0;
+        border-bottom: 0;
+        text-decoration: underline;
+
+    }
+    .side a:hover {
+        background: 0;
+        border-bottom: 0;
+    }
+    .lor {
+        width: 45%;
+        left: 140px;
+        top: -100px;
+    }   
+    .title {
+        font-size: 35px;
+    } 
+    .inf {
+        font-size: 18px;
+    }
+    .iphone {
+        display: none;
+    }
+    .sl {
+        position: relative;
+        top: -293px;
+        left: 203px;
+    }
+    .page {
+        background-image: url("../img/bg_320.png");
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 2522px;
+    }
+    .over {
+        display: none;
+    }
+    .blurb {
+        top: -235px;
+        left: -38px;
+        width: 480px;
+    }
+    .bl_1 {
+        left: 151px;
+        top: 81px;
+    }
+    .bl_960_1 {
+        top: 238px;
+        left: 151px;
+    }
+    .bl_960_2 {
+        top: 410px;
+        left: 151px;
+    }
+    .blurb_1_2 {
+        top: 330px;
+        width: 209px;
+    }
+    .blurb_1 {
+        width: 209px;
+    }
+    .blurb_1_1 {
+        width: 209px;
+    }
+    #sp320 {
+        opacity: 0;
+    }
+    .read_1 {
+        left: 164px;
+        top: 47px;
+    }
+    .read_1_1 {
+        left: 159px;
+        top: 46px;
+    }  
+    .read_1_2 {
+        left: 160px;
+        top: 46px;
+    }
+    .foto {
+        top: 53px;
+        left: -132px;
+    }
+    .bg_sc {
+        width: 256px;
+        height: 274px;
+        position: absolute;
+        left: 122px;
+        top: 36px;
+    } 
+    .sc {
+        top: 298px;
+        left: -66px;
+    }   
+    .inf_recall {
+        position: absolute;
+        top: 44px;
+        width: 215px;
+        left: 153px;
+        height: 245px;
+    }
+    .title_recall {
+        font-size: 24px;
+    }.colortext {
+        position: absolute;
+        top: 24px;
+        left: 0px;
+    }
+    .recall_1 {
+        width: 197px;
+        top: 47px;
+        height: 163px;
+    }
+    .opacity7, .opacity8 {
+        opacity: 0;
+    }
+    .updates {
+        top: 267px;
+        left: 60px;
+    }
+    .sc_2 {
+        position: absolute;
+        top: 240px;
+        left: 38px;
+    }
+    .text5 {
+        top: 314px;
+        left: 104px;
+    }
+    .text6 {
+        top: 335px;
+    }
+    .read_6 {
+        left: 224px;
+        top: 372px;
+    }
+    .linia {
+        position: absolute;
+        top: 1925px;
+        overflow: hidden;
+        width: 100%;
+    }
+    .footer {
+        position: relative;
+        top: -34px;
+        height: 408px;
+    }
+    .logos1 {
+        left: 143px;
+        top: 37px;
+    }
+    .logos2 {
+        position: relative;
+        left: 265px;
+        top: -29px;
+    }
+    .logos3 {
+        position: relative;
+        left: 149px;
+        top: 28px;
+    }
+    .logos4 {
+        left: 278px;
+        top: -41px;
+    }
+    .logos5 {
+        left: 122px;
+        top: 17px;
+    }
+    .logos6 {
+        left: 280px;
+        top: -31px;
+    }
+    .foot_inf, .menu--footer {
+        display: none;
+    }
+    .foot_inf {
+        width: 320px;
+    }
+    .designed {
+        top: -2px;
+        left: 171px;
+    }
+    .wrapper {
+        width: 480px;
+        margin: 0 auto;
+    }
+}
