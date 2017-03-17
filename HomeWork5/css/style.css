@@ -2,6 +2,22 @@ a, p, span{
 	font-family: "Belvetica Bqregular";
 
 }
+.face1 {
+	position: absolute;
+    width: 37px;
+    height: 35px;
+    left: 0px;
+    top: 0px;
+    border-radius: 5px 0px 0px 5px;
+    box-shadow: 2px 0px 0px -1px #4C66A3;
+}
+.fa {
+	text-decoration: none;
+	font-size: 25px;
+	color: white;
+	font-weight: bold;
+	font-family: "Tahoma Regular";
+}
 .fix {
 	position: relative;
     left: -360px;
@@ -21,15 +37,16 @@ a, p, span{
     top: -36px;
 
 }
-.upmenu li a:hover{
+.upmenu li a:hover {
 	background: #4EABDA; 
     color: #fff;
     
-   } 
+} 
+
 a:link {
      padding: 10px;
     
-   }
+}
 
  li{
 	float: left;
@@ -108,13 +125,11 @@ li a{
 	width: 558px;
 	height: 550px;
   	text-align: center;
-  	position: absolute;
+  	position: relative;
   	border: 1px solid black;
   	background-color: rgba(0,0,0,0.6);
-  	left: 50%;
-	top: 50%;
-	margin-left: calc(-558px/2);
-	margin-top: calc(-550px/2);
+  	top: 200px;
+  	margin: 0 auto;
 }
 .face{
 	position: relative;
